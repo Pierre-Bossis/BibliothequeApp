@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.AssemblyInfo.cs
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\bin\Debug\net6.0\BibliothequeApp.exe
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\bin\Debug\net6.0\BibliothequeApp.deps.json
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\bin\Debug\net6.0\BibliothequeApp.runtimeconfig.json
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\bin\Debug\net6.0\BibliothequeApp.dll
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\bin\Debug\net6.0\BibliothequeApp.pdb
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.dll
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\refint\BibliothequeApp.dll
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.pdb
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\BibliothequeApp.genruntimeconfig.cache
+C:\Users\user\source\repos\BibliothequeApp\BibliothequeApp\obj\Debug\net6.0\ref\BibliothequeApp.dll
