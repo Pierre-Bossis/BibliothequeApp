@@ -57,7 +57,7 @@ namespace BibliothequeApp
 
         public string SearchByName()
         {
-            return "yes";
+            return "Ok";
         }
     }
 }
