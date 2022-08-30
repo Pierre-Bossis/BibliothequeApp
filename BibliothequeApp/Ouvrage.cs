@@ -19,6 +19,10 @@ namespace BibliothequeApp
             {
                 return _Nom;
             }
+            set
+            {
+                _Nom = value;
+            }
         }
         public string Auteur
         {
@@ -26,12 +30,20 @@ namespace BibliothequeApp
             {
                 return _Auteur;
             }
+            set
+            {
+                _Auteur = value;
+            }
         }
         public string Genre
         {
             get
             {
                 return _Genre;
+            }
+            set
+            {
+                _Genre = value;
             }
         }
 
@@ -43,6 +55,8 @@ namespace BibliothequeApp
             }
         }
 
+        public bool IsEmprunted = false;
+
         protected Ouvrage(string Nom,string Auteur, string Genre)
         {
             _Nom = Nom;
@@ -53,11 +67,6 @@ namespace BibliothequeApp
         public virtual string ReturnType()
         {
             return typeof(BD).Name;
-        }
-
-        public string SearchByName()
-        {
-            return "Ok";
         }
     }
 }
